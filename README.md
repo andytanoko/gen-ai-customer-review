@@ -54,9 +54,7 @@ The key goals of this project are:
 - 🐍 Python
 - 🤗 Hugging Face Transformers
 - 🧠 Open-source LLMs (e.g., LLaMA, Mistral, GPT-J)
-- 📊 Pandas, NumPy, scikit-learn
-- 📈 Streamlit for demo interface
-- 📑 ROUGE / BLEU for summarization evaluation
+
 
 ---
 
